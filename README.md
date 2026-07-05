@@ -1,7 +1,7 @@
 # Isik_Kontrol_Projesi---Light_Control_Project_with_Sensor
 Arduino Mega ve Simulink kullanılarak gerçekleştirilen, HC-SR04 ultrasonik sensör gürültü filtrelemeli ve Anti-Windup (Clamping) mekanizmalı PID tabanlı temassız LED parlaklık kontrolü projesi.---A PID-based wireless LED brightness control project using the HC-SR04 ultrasonic sensor with noise filtering and an anti-windup (clamping) mechanism, implemented using Arduino Mega and Simulink
 
-# Türkçe
+# Türkçe:
 
 # Arduino & Simulink ile Temassız Işık Kontrolü (PID)
 
@@ -24,7 +24,7 @@ PID kontrolcünün **I (Integral)** teriminin zamanla hata biriktirerek sistemi 
 ### 3. Örnekleme Zamanı Uyuşmazlığı (Multi-rate Sampling)
 Simulink ana çözücü saati (Solver size) ile sensör örnekleme zamanının uyuşmaması sonucu oluşan Multi-rate hatası, tüm sistem frekanslarının 0.1s adım süresine senkronize edilmesiyle giderilmiştir.
 
-# English
+# English:
 
 # Contactless Light Control (PID) with Arduino & Simulink
 
