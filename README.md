@@ -47,6 +47,6 @@ The problem where the **I (Integral)** term of the PID controller accumulates er
 ### 3. Multi-rate Sampling
 The multi-rate error caused by a mismatch between the Simulink solver time (Solver size) and the sensor sampling rate was resolved by synchronizing all system frequencies to a 0.1-second step time.
 
-Translated with DeepL.com (free version)
+
 
 
