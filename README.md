@@ -1,2 +1,2 @@
 # Isik_Kontrol_Projesi---Light_Control_Project_with_Sensor
-Arduino Mega ve Simulink kullanılarak gerçekleştirilen, PID tabanlı temassız LED parlaklık kontrolü projesi.---A PID-based wireless LED brightness control project using ultrasonic sensor, implemented using Arduino Mega and Simulink
+Arduino Mega ve Simulink kullanılarak gerçekleştirilen, HC-SR04 ultrasonik sensör gürültü filtrelemeli ve Anti-Windup (Clamping) mekanizmalı PID tabanlı temassız LED parlaklık kontrolü projesi.---A PID-based wireless LED brightness control project using the HC-SR04 ultrasonic sensor with noise filtering and an anti-windup (clamping) mechanism, implemented using Arduino Mega and Simulink
